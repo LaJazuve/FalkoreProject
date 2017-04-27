@@ -1,0 +1,36 @@
+-bug lampe (attribut vision)check!!! maintenat faire en sorte que si on quitte la piece la lumiere suive(plus message d'alerte si il y a dejà une lumiere)
+                                                      +faire en sorte que la lampe de poche eclaire la piece et non controle l'éclairage de la piece !
+
+-bug porte et inventaire, probleme porte fonctionne que dans un sens.check !!!
+
+
+-question de l'espace et du temps dans le jeu +visibilité sur une echelle de 0 à 3 ?
+
+
+
+-boucher les erreurs potentiel indiqué au joueur si c'est de ça faute
+
+-probleme de nom comment le joueur selectionne un objet sans taper le nom entier ? utile ?
+
+
+-reorganisé en metaclasse.+faire des variable organiser et sur(non alloquer)
+
+-faire module interface et surtout narration !!!
+update pour toute les chose autonome du jeux
+
+-faire module uniquement pour "commande" ?un dictionnaire de commande ?
+
+
+-ajouter "prendre" et "poser"(+sur quelque chose ?).
+
+-corriger les bug potentiel d'orthographe, d'espace (double espace par exemple, peut etre un strip() sur tout les tuple de cmd ?), et d'apostrophe.
+
+
+-créer module de temperament/emotion/intelligence(mentale quoi) pour perso joueur et non joueur.
+
+-SimWorld.
+
+
+-faire pnj (allier, enemi et neutre)
+
+-1 seul mode de gameplay ou (par exemple pour combat) on change de mode et le mode combat s'active ?

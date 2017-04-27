@@ -1,0 +1,17 @@
+Mise à jour Version CrashTest.0.0.1(21/02/2015):
+
+	-utiliser+objet (porte, clef, lampe)
+        -voir (salle et inventaire (voir+inventaire ou inventaire))
+	-localisation par salle des objets+hero
+	-porte fonctionnel (mais peut versatile correction a venir : un bouton +si ici aller la bas si la-bas aller ici+position porte toujours vrai dans les 2)
+	-test de vision
+	-inventaire fonctionnel
+	-fonction interface commande (à simplifier je penses)
+
+
+Mise à jour Version Crashtest.0.0.2(22/02/2015):
+
+	Ajout : -L'inventaire devient un menu à part
+		-correction porte et position objet inventaire fait!
+		
+	
